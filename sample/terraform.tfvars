@@ -1,0 +1,7 @@
+key_name = "jba-studio-eu"
+key_path = ""
+access_key = ""
+secret_key = ""
+aws_region = "eu-west-1"
+network = "10.10"
+env="test"

@@ -1,0 +1,5 @@
+key_name = ""
+key_path = ""
+access_key = ""
+secret_key = ""
+aws_region = "eu-west-1"

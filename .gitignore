@@ -1,0 +1,7 @@
+*~
+*.swp
+.*.swp
+
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
